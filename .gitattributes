@@ -15,3 +15,9 @@ docs/** !filter !diff
 
 # Audit logs encrypted:
 logs/** filter=git-crypt diff=git-crypt
+
+# Audit logs encrypted (auto-added):
+.git-crypt-logs/** filter=git-crypt diff=git-crypt
+
+# Audit logs encrypted (auto-added):
+.git-crypt-logs/** filter=git-crypt diff=git-crypt
