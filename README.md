@@ -1,15 +1,10 @@
 <p align="center">
-  <a href="https://github.com/lupaxa-security-toolbox">
-    <img src="https://raw.githubusercontent.com/the-lupaxa-project/org-logos/master/orgs/security-toolbox/readme-logo.png" alt="Project Logo" width="256"/><br/>
-  </a>
+    <a href="https://github.com/lupaxa-security-toolbox">
+        <img src="https://raw.githubusercontent.com/the-lupaxa-project/brand-assets/master/logos/organisations/security-toolbox/readme-logo.png" alt="Organisation Logo" />
+    </a>
 </p>
 
-<h3 align="center">
-  The Lupaxa Security Toolbox<br />
-  Part of The Lupaxa Project
-</h3>
-
-# Secure Demo Repository
+<h1 align="center">Git Crypt Demo Repository</h1>
 
 This repository is protected using [**GCM — Git-Crypt Manager**](https://github.com/lupaxa-security-toolbox/git-crypt-manager).
 
@@ -48,14 +43,6 @@ git-crypt unlock
 
 If your key is not approved, encrypted files will appear as binary gibberish.
 
-<h1>&nbsp;</h1>
-<p align="center">
-    <strong>
-        &copy; The Lupaxa Project.
-    </strong>
-    <br />
-    <em>
-        Where exploration meets precision.<br />
-        Where the untamed meets the engineered.
-    </em>
-</p>
+<a href="https://github.com/the-lupaxa-project">
+    <img src="https://raw.githubusercontent.com/the-lupaxa-project/brand-assets/master/logos/components/footer-for-child-orgs.svg" alt="The Lupaxa Project Footer" width="100%" />
+</a>
