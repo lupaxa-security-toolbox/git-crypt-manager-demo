@@ -21,3 +21,16 @@ logs/** filter=git-crypt diff=git-crypt
 
 # Audit logs encrypted (auto-added):
 .git-crypt-logs/** filter=git-crypt diff=git-crypt
+
+# =============================================================================
+# GitHub Linguist
+# =============================================================================
+
+# Versioning / makefile-skills tooling — not project source
+Makefile linguist-vendored
+makefiles.config linguist-vendored
+checkmake.ini linguist-vendored
+.bumpversion.toml linguist-vendored
+
+# Release and test workflows — not project source
+.github/workflows/** linguist-vendored
